@@ -31,7 +31,7 @@ Across these projects, I apply the **core principles of supervised and unsupervi
 | **Classification** | Logistic Regression, KNN, Decision Trees, Random Forests | Confusion matrices, ROC/AUC, bias–variance |
 | **Clustering** | K-Means, Hierarchical Clustering | Choosing `k`, interpreting cluster structure |
 | **Dimensionality Reduction** | PCA | Feature importance, visualization |
-| **NLP & Deep Learning (later sections)** | Naive Bayes, TensorFlow/Keras | Text preprocessing, neural networks |
+| **NLP & Deep Learning** | Naive Bayes, TensorFlow/Keras | Text preprocessing, neural networks |
 
 ---
 
