@@ -1,13 +1,13 @@
 # Machine Learning Fundamentals – Portfolio Projects
 
-This repository showcases a collection of **hands-on machine learning projects** completed as part of the *Python for Data Science and Machine Learning Bootcamp (Udemy)*.  
-Each project demonstrates end-to-end implementation of key algorithms, emphasizing data preparation, model training, evaluation, and interpretation.
+This repository showcases a collection of **hands-on machine learning projects**.  
+Each project demonstrates end-to-end implementation of key algorithms, emphasising data preparation, model training, evaluation, and interpretation.
 
 ---
 
 ## Repository Structure
 Each folder contains:
-- A **Jupyter Notebook** with code, explanations, and visualizations  
+- A **Jupyter Notebook** with code, explanations, and visualisations  
 - The **dataset(s)** used for model training and testing  
 - Notes on key concepts, limitations, and takeaways  
 
