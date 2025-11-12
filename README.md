@@ -7,7 +7,7 @@ Each project demonstrates end-to-end implementation of key algorithms, emphasisi
 
 ## Repository Structure
 Each folder contains:
-- A **Jupyter Notebook** with code, explanations, and visualisations  
+- A **Jupyter Notebook** with code, project description and motivation, and visualisations  
 - The **dataset(s)** used for model training and testing  
 - Notes on key concepts, limitations, and takeaways  
 
