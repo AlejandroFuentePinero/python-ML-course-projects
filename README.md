@@ -1,4 +1,4 @@
-# Machine Learning Fundamentals – Portfolio Projects
+# Machine Learning Projects
 
 This repository showcases a collection of **hands-on machine learning projects**.  
 Each project demonstrates end-to-end implementation of key algorithms, emphasising data preparation, model training, evaluation, and interpretation.
