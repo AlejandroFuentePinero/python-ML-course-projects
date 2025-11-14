@@ -1,51 +1,65 @@
 # Machine Learning Projects
 
-This repository showcases a collection of **hands-on machine learning projects**.  
-Each project demonstrates end-to-end implementation of key algorithms, emphasising data preparation, model training, evaluation, and interpretation.
+A curated collection of **end-to-end machine learning projects**, each designed to demonstrate practical problem-solving, rigorous analysis, and clear communication of results.  
+Projects cover the full workflow: data preparation, modelling, evaluation, and interpretation.
 
 ---
 
 ## Repository Structure
-Each folder contains:
-- A **Jupyter Notebook** with code, project description and motivation, visualisations, key concepts, limitations, and takeaways 
-- The **dataset(s)** used for model training and testing  
+
+Each project folder contains:
+
+- A **Jupyter Notebook** documenting the problem, methods, key decisions, and results  
+- All **datasets** used for training and testing  
+- Clear explanations of limitations, assumptions, and takeaways  
 
 ---
 
-## Learning Objectives
-Through these projects, I applied the **core principles of supervised, unsupervised, and deep learning**, including:
+## Learning Focus
 
-- Data preprocessing, feature engineering, and scaling  
-- Exploratory Data Analysis (EDA) and visualisation  
-- Model training, cross-validation, and hyperparameter tuning  
-- Evaluation using metrics such as accuracy, precision, recall, ROC/AUC, and RMSE  
-- Model interpretability, feature importance, and communication of results  
+Across these projects, I apply the core principles of **supervised, unsupervised, and deep learning**, including:
+
+- Data cleaning, preprocessing, feature engineering, and scaling  
+- Exploratory Data Analysis (EDA) to understand structure, patterns, and drivers  
+- Model selection, cross-validation, and hyperparameter optimisation  
+- Performance evaluation with metrics such as accuracy, recall, precision, F1, ROC/AUC, RMSE  
+- Model interpretability and communication of insights  
+- Critical reasoning about algorithm behaviour and model trade-offs  
+
+These projects emphasise not just *how* to build models, but *why* they behave as they do.
 
 ---
 
-## Algorithms & Techniques Covered
+## Algorithms & Techniques Included
 
-| Category | Algorithms / Methods | Focus Areas |
-|-----------|----------------------|--------------|
-| **Regression** | Linear Regression, Polynomial Regression | Feature scaling, residual analysis, performance metrics |
-| **Classification** | Logistic Regression, K-Nearest Neighbours (KNN), Decision Trees, Random Forests, Support Vector Machines (SVM) | Model optimisation, confusion matrices, ROC/AUC |
-| **Clustering** | K-Means Clustering | Choosing `k`, visualising cluster structure, unsupervised insights |
-| **Dimensionality Reduction** | Principal Component Analysis (PCA) | Feature compression, explained variance, visualization |
-| **Natural Language Processing** | Naive Bayes Classifier | Text cleaning, tokenization, vectorization, spam filtering |
-| **Deep Learning** | Neural Networks (TensorFlow/Keras) | Building, training, and evaluating feedforward models |
-| **Recommender Systems** | Collaborative filtering and similarity metrics | Predictive personalization and matrix factorization |
-| **Big Data & Distributed ML** | Spark MLlib | Scalable analytics and distributed model workflows |
+| Category | Algorithms / Methods | Skills Demonstrated |
+|---------|----------------------|----------------------|
+| **Regression** | Linear Regression, Polynomial Regression | Error analysis, regularisation, metric interpretation |
+| **Classification** | Logistic Regression, KNN, Decision Trees, Random Forests, SVM | Metric trade-offs, confusion matrix analysis, probability thresholds |
+| **Clustering** | K-Means | Choosing `k`, interpreting clusters, unsupervised insights |
+| **Dimensionality Reduction** | PCA | Feature compression, explained variance, visualisation |
+| **NLP** | Naive Bayes | Text preprocessing, tokenisation, vectorisation |
+| **Deep Learning** | Feedforward Neural Networks (TensorFlow/Keras) | Architecture design, optimisation, evaluation |
+| **Recommender Systems** | Similarity-based and collaborative filtering | Neighbourhood methods, ranking, user–item matrices |
 
 ---
 
 ## Tech Stack
 
-- **Python**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow/Keras, Spark  
-- **Jupyter Notebooks** for interactive analysis and documentation  
-- **Git & GitHub** for version control and professional portfolio presentation  
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn  
+- **Machine Learning**: Scikit-learn, TensorFlow/Keras  
+- **Environment**: Jupyter Notebooks  
+- **Version Control**: Git & GitHub for clean, modular project organisation  
 
 ---
 
 ## Purpose
-This repository is part of my ongoing **Data Science & Machine Learning portfolio**, showcasing both conceptual understanding and applied technical skills.  
-Each project reinforces not just *how* models are built — but *why* they behave the way they do, focusing on insight, evaluation, and interpretability.
+
+This repository forms a core part of my **Data Science and Machine Learning portfolio**.  
+The focus is on producing clean, interpretable, and well-structured analytical work that reflects real-world workflows. Each project highlights:
+
+- Clear problem framing  
+- Strong attention to EDA and feature engineering  
+- A transparent modelling process  
+- Honest evaluation of model strengths and weaknesses  
+- Clear communication of insights and trade-offs  
