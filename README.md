@@ -11,7 +11,23 @@ Each project folder contains:
 
 - A **Jupyter Notebook** documenting the problem, methods, key decisions, and results  
 - All **datasets** used for training and testing  
-- Clear explanations of limitations, assumptions, and takeaways  
+- Clear explanations of limitations, assumptions, and takeaways
+
+---
+
+## Project Catalogue
+
+- 01_linear_regression — Predicting a continuous target from tabular data using linear regression; focus on feature scaling, trend interpretation, and error analysis.
+- 02_logistic_regression — Binary classification with logistic regression; emphasis on decision thresholds, precision/recall, and ROC–AUC.
+- 03_K_nearest_neighbors — KNN for classification; exploring distance metrics and the bias–variance trade-off.
+- 04_decision_trees_and_random_forest — Tree-based models for non-linear decision boundaries; feature importance and overfitting control.
+- 05_support_vector_machines — SVM decision boundaries; kernel tricks and margin interpretation.
+- 06_K_means_clustering — Unsupervised clustering; choosing k and interpreting cluster structure.
+- 07_recommender_systems — Item/user similarity and basic collaborative filtering for recommendations.
+- 08_NLM — Text classification with Naive Bayes; tokenisation, vectorisation, and baseline NLP workflows.
+- 09_NN_Keras_regression — Feedforward neural net for regression with Keras; architecture design and regularisation.
+- 10_NN_Keras_classification — Neural network classifier; class imbalance handling and evaluation.
+- 11_NN_LendingClub — Credit-risk style classification on LendingClub-like data; model evaluation from a risk perspective. 
 
 ---
 
