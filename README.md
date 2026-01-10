@@ -1,5 +1,5 @@
 # Machine Learning Projects
-### Learning lab for ML fundamentals
+## Learning lab: implementations and experiments to consolidate ML fundamentals.
 A curated collection of **end-to-end machine learning projects**, each designed to demonstrate practical problem-solving, rigorous analysis, and clear communication of results.  
 Projects cover the full workflow: data preparation, modelling, evaluation, and interpretation.
 
