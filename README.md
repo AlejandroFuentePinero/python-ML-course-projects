@@ -71,7 +71,6 @@ These projects emphasise not just *how* to build models, but *why* they behave a
 
 ## Purpose
 
-This repository forms a core part of my **Data Science and Machine Learning portfolio**.  
 The focus is on producing clean, interpretable, and well-structured analytical work that reflects real-world workflows. Each project highlights:
 
 - Clear problem framing  
